@@ -5,7 +5,7 @@
 * [慕课网django-2-user\_model设计](mu-ke-wang-django-2-user-model-she-ji.md)
 * [慕课网django-3-course\_model设计](mu-ke-wang-django-3-course-model-she-ji.md)
 * [慕课网django-4-organization——model设计](mu-ke-wang-django-4-organization-model-she-ji.md)
-* 慕课网django-5-operation\_model设计
+* [慕课网django-5-operation\_model设计](mu-ke-wang-django-5-operation-model-she-ji.md)
 * 慕课网django-6-app目录建立以及setting设置
 * 慕课网django-7-自带admin介绍
 * 慕课网django-8-django-xadmin
