@@ -9,6 +9,6 @@
 * [慕课网django-6-app目录建立以及setting设置](mu-ke-wang-django-6-app-mu-lu-jian-li-yi-ji-setting-she-zhi.md)
 * [慕课网django-7-自带admin介绍](mu-ke-wang-django-7-zi-dai-admin-jie-shao.md)
 * [慕课网django-8-django-xadmin](mu-ke-wang-django-8-django-xadmin.md)
-* 慕课网django-9-xadmin
+* [慕课网django-9-xadmin](mu-ke-wang-django-9-xadmin.md)
 * 慕课网django-10-xadmin全局修改
 
